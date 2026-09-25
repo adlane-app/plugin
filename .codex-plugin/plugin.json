@@ -1,0 +1,20 @@
+{
+  "name": "adlane",
+  "version": "1.0.0",
+  "description": "Review connected Google Ads and Meta Ads accounts, campaign performance and campaign settings through Adlane. Read-only OAuth access; no campaign or budget changes.",
+  "author": {
+    "name": "Adlane",
+    "url": "https://github.com/adlane-app"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Adlane",
+    "shortDescription": "Review ad campaign performance",
+    "longDescription": "Review connected Google Ads and Meta Ads accounts, campaign performance and campaign settings through Adlane. Read-only OAuth access; no campaign or budget changes.",
+    "developerName": "Adlane",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Review my connected advertising accounts and help me compare campaign performance."
+  },
+  "mcpServers": "./.mcp.json"
+}

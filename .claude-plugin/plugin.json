@@ -1,0 +1,20 @@
+{
+  "name": "adlane",
+  "version": "1.0.0",
+  "description": "Review connected Google Ads and Meta Ads accounts, campaign performance and campaign settings through Adlane. Read-only OAuth access; no campaign or budget changes.",
+  "author": {
+    "name": "Adlane",
+    "url": "https://adlane.app"
+  },
+  "homepage": "https://adlane.app",
+  "repository": "https://github.com/adlane-app/plugin",
+  "license": "MIT",
+  "keywords": [
+    "adlane",
+    "google-ads",
+    "meta-ads",
+    "analytics",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://adlane.app/privacy/"
+}
