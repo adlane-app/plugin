@@ -1,0 +1,20 @@
+{
+  "name": "adlane",
+  "version": "2.0.0",
+  "description": "Ad library search with Adlane: see competitor ads from the Meta, TikTok, LinkedIn and Google ad libraries at once, with copy, creative, start dates and landing pages. An ad spy for ad creative research: save ads to boards and track competitors' new ones.",
+  "author": {
+    "name": "Adlane",
+    "url": "https://github.com/adlane-app"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Ad library search by Adlane",
+    "shortDescription": "Competitor ads and ad spy",
+    "longDescription": "Ad library search with Adlane: see competitor ads from the Meta, TikTok, LinkedIn and Google ad libraries at once, with copy, creative, start dates and landing pages. An ad spy for ad creative research: save ads to boards and track competitors' new ones.",
+    "developerName": "Adlane",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "What ads is allbirds.com running on Meta, TikTok and Google right now, and which have run the longest?"
+  },
+  "mcpServers": "./.mcp.json"
+}

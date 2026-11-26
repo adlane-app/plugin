@@ -1,0 +1,24 @@
+{
+  "name": "adlane",
+  "version": "2.0.0",
+  "description": "Ad library search with Adlane: see competitor ads from the Meta, TikTok, LinkedIn and Google ad libraries at once, with copy, creative, start dates and landing pages. An ad spy for ad creative research: save ads to boards and track competitors' new ones.",
+  "author": {
+    "name": "Adlane",
+    "url": "https://adlane.app"
+  },
+  "homepage": "https://adlane.app",
+  "repository": "https://github.com/adlane-app/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "adlane",
+    "ad-library",
+    "ad-library-search",
+    "competitor-ads",
+    "ad-spy",
+    "ad-creative",
+    "ad-intelligence",
+    "meta-ad-library",
+    "competitor-research"
+  ]
+}
